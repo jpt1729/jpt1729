@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @jpt1729
-- 👀 I’m interested in webdev + machine learning
-- 🌱 I’m currently learning machine learning principals 
-- 📫 How to reach me on discord @jpt1729
-- 😄 Pronouns: He/Him
+### <samp>john tan-aristy</samp>
+<samp>ECE @ UT Austin. web dev, ML, and hardware.</samp>
 
-<!---
-jpt1729/jpt1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<samp>jtanaristy[at]utexas.edu· he/him</samp>
